@@ -7,7 +7,7 @@ Tenho histórico comprovado na entrega de análises que geram impacto financeiro
 ---
 
 ## Projetos
-
+![Dashboard](Desvio_Preço_Impacto_Produto.png)
 ### Monitoramento de Desvio de Preço
 
 Dashboard desenvolvido para monitorar anúncios em marketplaces e identificar desvios em relação ao preço sugerido (PSP), com foco em reduzir perdas financeiras e garantir compliance de preços.
@@ -30,7 +30,7 @@ Dashboard desenvolvido para monitorar anúncios em marketplaces e identificar de
 Power BI, Excel
 
 ---
-
+![Dashboard](Analise_Competitividade_Mercado.png)
 ### Análise de Competitividade de Preços no Mercado
 
 Dashboard para análise comparativa de preços entre marcas, lojas e marketplaces, permitindo identificar oportunidades de ajuste de preço e posicionamento competitivo.
@@ -53,7 +53,7 @@ Dashboard para análise comparativa de preços entre marcas, lojas e marketplace
 Power BI, Excel, WebPrice
 
 ---
-
+![Dashboard](Faixa_Desvio.png)
 ### Monitoramento de Desvio por Produto e Seller
 
 Dashboard focado em identificar e priorizar desvios de preço em anúncios de marketplaces, oferecendo visão granular sobre produtos, sellers e marketplaces com maior impacto financeiro.
