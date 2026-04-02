@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo(a) ao meu portfólio de dados
 
-  ## Eu sou o Kaíque Lúcio,
+  ### Eu sou o Kaíque Lúcio,
 
 Analista de Dados com +5 anos de experiência em inteligência de mercado, análise de preços e monitoramento de concorrência. Especialista em Power BI e modelagem de dados, com foco na criação de dashboards estratégicos e KPIs que suportam a tomada de decisão da alta liderança.
 
